@@ -1,5 +1,5 @@
 # Usage
-````sh
+```sh
 npm install git+https://github.com/ompugao/sb2md.git
 python3 -m venv venv
 source venv/bin/activate
