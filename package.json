@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sb2md": "github:ompugao/sb2md"
+  }
+}
